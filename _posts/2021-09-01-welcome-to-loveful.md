@@ -7,4 +7,6 @@ tags: [ ]
 image: assets/images/2.jpg
 ---
 
-Stay tuned.
+Hello folks!
+
+This is the very beginning of the Loveful blog.
