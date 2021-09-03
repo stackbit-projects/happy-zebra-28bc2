@@ -7,7 +7,7 @@ tags: [ ]
 image: assets/images/2.jpg
 ---
 
-Hello folks! This is the beginning of the Loveful blog. 
+Hello folks! This is the very beginning of Loveful. 
 
 At Loveful, we made it our mission to rid the world of unfulfilling and monotonous relationships that drain the life out of our lives. 
 
