@@ -39,10 +39,6 @@ authors:
     name: Nikita Krishna
     display_name: Nikita
     avatar: assets/images/nik-dp.png
-    email: nikita@gmaloveful.in
-    description: >-
-      Write a short description of the author here. You are currently previewing
-      Memoirs demo, a Jekyll template compatible with Github pages.
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
