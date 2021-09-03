@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Hello and Welcome to Loveful!"
+title:  "Welcome to Loveful!"
 author: nik
 categories: [ General ]
 tags: [ ]
