@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About us
+title: About Loveful
 permalink: /about
 comments: false
 
