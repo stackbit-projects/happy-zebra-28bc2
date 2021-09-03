@@ -8,4 +8,4 @@ image: assets/images/2.jpg
 ---
 
 Hello folks!
-This is the very beginning of the Loveful blog.
+This is the beginning of the Loveful blog.
