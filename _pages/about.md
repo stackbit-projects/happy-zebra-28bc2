@@ -7,7 +7,7 @@ image: assets/images/screenshot.jpg
 imageshadow: true
 ---
 
-Loveful is a lifestyle blog that is de
+Loveful is a health & lifestyle blog that is de
 
 At Loveful, we made it our mission to rid the world of unfulfilling and monotonous relationships that can drain the life out of our lives. 
 
