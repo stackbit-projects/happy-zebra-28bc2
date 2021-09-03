@@ -11,7 +11,7 @@ Loveful is a lifestyle blog dedicated to help readers improve their relationship
 
 At Loveful, we made it our mission to rid the world of unfulfilling and monotonous relationships that can drain the life out of our lives. 
 
-We imagine and strive to build a utopian world where each individual feels loved, secure, and happy with themselves and their partner. 
+We imagine and strive to realize a utopian world where each individual feels loved, secure, and happy with themselves and their partner. 
 
 <a target="_blank" href="https://instagram.com/loveful.in" class="btn btn-dark"> Follow us on Instagram &rarr;</a>
 
