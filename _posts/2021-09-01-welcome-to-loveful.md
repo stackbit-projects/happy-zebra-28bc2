@@ -13,6 +13,6 @@ At Loveful, we made it our mission to rid the world of unfulfilling and monotono
 
 We imagine a society where every individual feels loved, secure, and happy with themselves and their partner. Such a society enables them to identify their destiny and work towards realizing their true potential.
 
-This (seemingly) utopian world is what we strive to make happen through this blog
+This (seemingly) utopian world is what we strive to make happen through this blog. 
 
 Over the next few posts you'll get to read life changing tips on relationships and sexual health
