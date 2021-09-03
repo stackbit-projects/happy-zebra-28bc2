@@ -9,7 +9,7 @@ image: assets/images/2.jpg
 
 Hello folks! This is the beginning of the Loveful blog. 
 
-> At Loveful, we made it our mission to rid the world of unfulfilling and monotonous relationships that drain the life out of our lives. 
+At Loveful, we made it our mission to rid the world of unfulfilling and monotonous relationships that drain the life out of our lives. 
 
 We imagine a society where every individual feels loved, secure, and happy with themselves and their partner. Such a society might seem utopian in nature but we believe it to be the key to self-realization
 
