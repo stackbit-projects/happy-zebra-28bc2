@@ -15,5 +15,4 @@ We imagine and strive for a society where each individual feels loved, secure, a
 
 This (seemingly) utopian world is what we try to make happen through Loveful. Over the subsequent posts, you can expect to find useful tips and ideas that can take your love life to a whole new level.
 
-Until then,
-Stay happy and safe :)
+Until then, stay happy and safe :)
