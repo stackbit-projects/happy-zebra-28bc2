@@ -2,7 +2,7 @@
 layout: post
 title:  "Hello and Welcome to Loveful!"
 author: nik
-categories: [ Lifestyle ]
+categories: [ Loveful ]
 tags: [ General ]
 image: assets/images/2.jpg
 ---
