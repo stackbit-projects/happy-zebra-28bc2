@@ -7,4 +7,4 @@ tags: [ ]
 image: assets/images/2.jpg
 ---
 
-Stay tuned!
+Stay tuned.
