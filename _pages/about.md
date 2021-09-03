@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Memoirs, a free minimalist Jekyll blogging theme with modern design 
+title: About us
 permalink: /about
 comments: false
 
