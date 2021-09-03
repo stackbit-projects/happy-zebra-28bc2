@@ -35,8 +35,8 @@ authors:
     description: >-
       Write a short description of the author here. You are currently previewing
       Memoirs demo, a Jekyll template compatible with Github pages.
-      john:
-    name: John
+  nik:
+    name: Nikita Krishna
     display_name: John
     avatar: assets/images/avatar.png
     email: wowthemesnet@gmail.com
