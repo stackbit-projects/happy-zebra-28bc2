@@ -1,0 +1,72 @@
+name: Loveful
+title: Loveful
+description: >-
+  Don’t let your relationship lose its spark! Make your love life <i>vibrant and
+  romantic</i>.
+logo: assets/images/l_logo.png
+favicon: assets/images/fav.png
+baseurl: ''
+google_analytics: UA-xxxxxxxx-1
+disqus: demowebsite
+mailchimp-list: >-
+  https://loveful.us5.list-manage.com/subscribe/post?u=c04e4067f3a15bfb7538ef355&amp;id=5097ba47a9
+include:
+  - _pages
+permalink: '/:title/'
+email: wowthemesnet@gmail.com
+authors:
+  sal:
+    name: Sally
+    display_name: Sally
+    avatar: assets/images/avatar-sal.png
+    email: wowthemesnet@gmail.com
+    web: 'https://www.wowthemes.net/donate/'
+    twitter: 'https://twitter.com/wowthemesnet'
+    description: >-
+      Author of Memoirs, a Bootstrap Medium styled template available for
+      Jekyll. You are currently previewing Jekyll template demo.
+  john:
+    name: John
+    display_name: John
+    avatar: assets/images/avatar.png
+    email: wowthemesnet@gmail.com
+    web: 'https://www.wowthemes.net'
+    twitter: 'https://twitter.com/wowthemesnet'
+    description: >-
+      Write a short description of the author here. You are currently previewing
+      Memoirs demo, a Jekyll template compatible with Github pages.
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-archives
+  - jekyll-figure
+jekyll-archives:
+  enabled:
+    - categories
+  layout: archive
+  permalinks:
+    category: '/category/:name/'
+paginate: 9
+paginate_path: '/page:num/'
+highlighter: none
+markdown: kramdown
+kramdown:
+  syntax_highlighter_opts:
+    disable: true
+adsense: disabled
+adsense-data-ad-client: ca-pub-3412143450191416
+adsense-data-ad-slot: '1363087678'
+lazyimages: disabled
+authorbox: enabled
+sass:
+  sass_dir: _sass
+  style: compressed
+exclude:
+  - changelog.md
+  - LICENSE.txt
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+url: ''
