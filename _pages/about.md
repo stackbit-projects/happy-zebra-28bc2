@@ -7,7 +7,7 @@ comments: false
 imageshadow: true
 ---
 
-Loveful are a lifestyle blog dedicated to help readers improve their relationships, sexuality, and well-being.
+Loveful is a lifestyle blog dedicated to help readers improve their relationships, sexuality, and well-being.
 
 At Loveful, we made it our mission to rid the world of unfulfilling and monotonous relationships that can drain the life out of our lives. 
 
